@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css" ?>
+<emails>  
+<email>  
+  <to>Ejaz Ahmed</to> 
+  <from>Minhaj Ahmed T191164230</from>  
+  <heading>Hello</heading> 
+  <body>Hello brother, how are you!</body>  
+</email>  
+<email>  
+  <to>Fahad</to>  
+  <from>Ramjan</from>  
+  <heading>Birth day wish</heading>  
+  <body>Happy birth day Tom!</body>  
+</email>  
+<email>  
+  <to>Rashid</to>  
+  <from>Minhaj</from>  
+  <heading>Morning walk</heading>  
+  <body>Please start morning walk to stay fit!</body>  
+</email>  
+<email>  
+  <to>Ejaz</to>  
+  <from>Ammar</from>  
+  <heading>Health Tips</heading>  
+  <body>Smoking is injurious to health!</body>  
+</email>  
+</emails> 
